@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1817e080-69d7-4751-b319-4015764d5ca2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1isHVMv0BkcXgWOLUjE56wioq7b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/PowTestt" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tools\Idea\PowAlgorithm\src\PowTestt" />
+      <recent name="D:\Tools\Idea\PowAlgorithm\src\PowTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Block">
+    <configuration name="Block (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowTestt.Block" />
+      <module name="PowAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PowTestt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowTest.Block" />
+      <module name="PowAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PowTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Block" />
+        <item itemvalue="Application.Block (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1817e080-69d7-4751-b319-4015764d5ca2" name="Default Changelist" comment="" />
+      <created>1602689401861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602689401861</updated>
+      <workItem from="1602689404822" duration="595000" />
+      <workItem from="1602720035096" duration="5173000" />
+      <workItem from="1602727841840" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1602726747717">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1602726747717" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1602726747717">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1602726747717" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1602726747717">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1602726747717" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1602726747717">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1602726747717" />
+    <state x="6" y="0" key="new project wizard" timestamp="1602723580412">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1602723580412" />
+  </component>
+</project>
