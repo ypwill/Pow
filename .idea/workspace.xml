@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1isHVMv0BkcXgWOLUjE56wioq7b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/PowTestt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -80,6 +83,7 @@
       <workItem from="1602689404822" duration="595000" />
       <workItem from="1602720035096" duration="5173000" />
       <workItem from="1602727841840" duration="28000" />
+      <workItem from="1602728264686" duration="18000" />
     </task>
     <servers />
   </component>
@@ -87,6 +91,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="121" key="FileChooserDialogImpl" timestamp="1602728564538">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="121" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1602728564538" />
     <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1602726747717">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -107,5 +115,9 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="6" y="0" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1602723580412" />
+    <state x="85" y="132" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1602728537510">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="85" y="132" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1280.760@0.0.1280.760" timestamp="1602728537510" />
   </component>
 </project>
